@@ -1,0 +1,1 @@
+This is a sample project based on HTML and CSS.

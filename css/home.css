@@ -1,0 +1,64 @@
+body {
+    margin: 1% 10% 10% 10%;
+    background-image: url("../images/bg.jpg");
+}
+
+.navbar {
+    background-color: darkgray;
+    flex:1;
+    display: flow-root;
+}
+
+
+.navbar ul {
+    list-style-type: none;
+    display: inline;
+   
+    
+}
+
+li {
+    float: left;
+    padding: 1%;
+    margin-left: 10%;
+    
+}
+li a {
+    
+    color: white;
+    
+}
+
+li:active {
+    background-color: orangered;
+}
+.home-heading {
+    color: orangered;
+}
+
+.home-content {
+    background-color: white;
+    margin: 2% 0% 0% 0% ;
+    padding:2%;
+    
+}
+
+.home-footer {
+    padding: 2% 1%;
+    background-color: darkgray;
+}
+
+.home-container{
+    display: flex;
+}
+
+.home-side-content {
+    background-color: white;
+    margin: 2% 0% 0% 0% ;
+    padding:2%;
+}
+
+.home-side-container {
+    margin: 1% 0% 0% 2%;
+    width: 100%;
+}
